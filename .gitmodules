@@ -1,0 +1,3 @@
+[submodule "LLM_Interop"]
+	path = LLM_Interop
+	url = https://github.com/Sanjei2002/T100XInterop.git
